@@ -191,3 +191,7 @@ Tables sort on click, and a run selector filters them.
 
 - **invoices**: invoice_id, invoice_number, invoice_date (ISO), due_date (ISO), vendor_name, vendor_address, customer_name, customer_address, currency (ISO 4217), subtotal, tax_rate, tax_amount, shipping, total
 - **line_items**: invoice_id, line_no, description, quantity, unit_price, amount
+
+## License
+
+Code: MIT (see LICENSE). The SROIE receipt dataset is not included here; it has its own terms of use (ICDAR 2019 SROIE).
